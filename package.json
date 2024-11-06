@@ -1,0 +1,25 @@
+{
+  "name": "5.7-api-integration-capstone",
+  "version": "1.0.0",
+  "description": "Practice Capstone project for learning public API integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Soumya86-wd/public-api-integration-capstone.git"
+  },
+  "author": "Soumya Chakraborty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Soumya86-wd/public-api-integration-capstone/issues"
+  },
+  "homepage": "https://github.com/Soumya86-wd/public-api-integration-capstone#readme",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "body-parser": "^1.20.3",
+    "ejs": "^3.1.10",
+    "express": "^4.21.1"
+  }
+}
